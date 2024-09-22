@@ -1,0 +1,8 @@
+[requires]
+pdfium/95.0.4629
+[generators]
+CMakeDeps
+CMakeToolchain
+
+[options]
+pdfium*:shared=False

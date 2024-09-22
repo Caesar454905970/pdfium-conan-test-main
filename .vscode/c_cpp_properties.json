@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+            "${workspaceFolder}/**",
+            "C:/Users/Administrator/.conan2/p/pdfiu63f8c799c2c7e/p/include" ,
+            "C:/Users/Administrator/.conan2/p/freet32e1b30696343/p/include" ,
+            "C:/Users/Administrator/.conan2/p/freet32e1b30696343/p/include/freetype2" ,
+            "C:/Users/Administrator/.conan2/p/libpn9bfcc2eca1f06/p/include" ,
+            "C:/Users/Administrator/.conan2/p/bzip25d2dbaf142a52/p/include" ,
+            "C:/Users/Administrator/.conan2/p/brotl79757a5cae055/p/include",
+            "C:/Users/Administrator/.conan2/p/brotl79757a5cae055/p/include/brotli",
+            "C:/Users/Administrator/.conan2/p/icue88dd878c447c/p/include" ,
+            "C:/Users/Administrator/.conan2/p/lcmsa09589c94c53b/p/include",
+            "C:/Users/Administrator/.conan2/p/openj58733c81470a1/p/include",
+            "C:/Users/Administrator/.conan2/p/openj58733c81470a1/p/include/openjpeg-2.5",
+            "C:/Users/Administrator/.conan2/p/zlib6f797a4dd16fb/p/include" ,
+            "C:/Users/Administrator/.conan2/p/libjp65bf71d9e338c/p/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.22621.0",
+            "compilerPath": "cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}
